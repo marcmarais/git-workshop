@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marc/Documents/2401ftds/git-workshop/mlruns/0/81c7bccb05674627bf6d74741ae649ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81c7bccb05674627bf6d74741ae649ab
+run_name: invincible-rook-887
+run_uuid: 81c7bccb05674627bf6d74741ae649ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719252817706
+status: 1
+tags: []
+user_id: marc
